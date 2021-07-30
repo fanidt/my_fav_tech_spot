@@ -11,6 +11,7 @@ Post.belongsTo(User, {
     foreignKey: 'user_id'
 });
 
+// on delete cascade all the child data get deleted too
 Comment.belongsTo(User, {
     foreignKey: 'user_id',
     onDelete: 'cascade',
