@@ -25,7 +25,7 @@
   ## Badges: <br />
   ![alt text](https://img.shields.io/badge/license-MIT-green)
   
-  ##Screenshot: <br />
+  ## Screenshot: <br />
     ![alt text](./myfavtechspot.png)
   
   ## Installation: <br />
