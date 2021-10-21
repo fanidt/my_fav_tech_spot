@@ -26,7 +26,7 @@
   ![alt text](https://img.shields.io/badge/license-MIT-green)
   
   ## Screenshot: <br />
-    ![alt text](./myfavtechspot.png)
+   ![alt text](./myfavtechspot.png)
   
   ## Installation: <br />
   No installation required to view the website
